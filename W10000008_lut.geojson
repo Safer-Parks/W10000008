@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "W10000008_lut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000020","auth_name_e":"Torfaen","auth_name_w":"Tor-faen","country":"Wales","absolute_filepath":"Wales/W10000008/W06000020"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000019","auth_name_e":"Blaenau Gwent","auth_name_w":"Blaenau Gwent","country":"Wales","absolute_filepath":"Wales/W10000008/W06000019"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000024","auth_name_e":"Merthyr Tydfil","auth_name_w":"Merthyr Tudful","country":"Wales","absolute_filepath":"Wales/W10000008/W06000024"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000022","auth_name_e":"Newport","auth_name_w":"Casnewydd","country":"Wales","absolute_filepath":"Wales/W10000008/W06000022"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000018","auth_name_e":"Caerphilly","auth_name_w":"Caerffili","country":"Wales","absolute_filepath":"Wales/W10000008/W06000018"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000008","reg_name_e":"South Wales East","reg_name_w":"Dwyrain De Cymru","authority_id":"W06000021","auth_name_e":"Monmouthshire","auth_name_w":"Sir Fynwy","country":"Wales","absolute_filepath":"Wales/W10000008/W06000021"},"geometry":null}
+]
+}
