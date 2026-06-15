@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CAERP_71_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malcolm uphill", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAERP_71" }, "geometry": { "type": "Point", "coordinates": [ -3.219927202, 51.57228546 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAERP_71" }, "geometry": { "type": "Point", "coordinates": [ -3.2193272, 51.5718467 ] } },
+{ "type": "Feature", "properties": { "name": "Food court toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAERP_71" }, "geometry": { "type": "Point", "coordinates": [ -3.221198391, 51.57440803 ] } }
+]
+}

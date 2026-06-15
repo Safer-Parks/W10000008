@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_517_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Llantilio Crossenny Church Toilet", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 94, "park_offical_id": "MONMO_517" }, "geometry": { "type": "Point", "coordinates": [ -2.874488533, 51.830150868 ] } }
+]
+}

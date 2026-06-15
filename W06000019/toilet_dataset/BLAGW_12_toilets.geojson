@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BLAGW_12_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asda", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "BLAGW_12" }, "geometry": { "type": "Point", "coordinates": [ -3.177312613, 51.795048432 ] } },
+{ "type": "Feature", "properties": { "name": "Brynmawr Public Toilets", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "BLAGW_12" }, "geometry": { "type": "Point", "coordinates": [ -3.174372911, 51.797965013 ] } },
+{ "type": "Feature", "properties": { "name": "Brynmawr Cemetery", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "BLAGW_12" }, "geometry": { "type": "Point", "coordinates": [ -3.181309104, 51.801095013 ] } }
+]
+}

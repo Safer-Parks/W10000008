@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CAERP_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Pantri", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "CAERP_15" }, "geometry": { "type": "Point", "coordinates": [ -3.1009233, 51.607736872 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "CAERP_15" }, "geometry": { "type": "Point", "coordinates": [ -3.097479343, 51.602418893 ] } },
+{ "type": "Feature", "properties": { "name": "Risca Library", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "CAERP_15" }, "geometry": { "type": "Point", "coordinates": [ -3.100996554, 51.605820546 ] } },
+{ "type": "Feature", "properties": { "name": "Snug Coffee Shop", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-15:00", "Tue": "08:30-15:00", "Wed": "08:30-15:00", "Thu": "08:30-15:00", "Fri": "08:30-15:00", "Sat": "08:30-15:00", "Sun": "Closed", "index_right": 19, "park_offical_id": "CAERP_15" }, "geometry": { "type": "Point", "coordinates": [ -3.100765049, 51.607235223 ] } }
+]
+}

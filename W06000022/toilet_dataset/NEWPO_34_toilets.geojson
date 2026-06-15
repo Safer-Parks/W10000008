@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWPO_34_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St Woolos Cemetary", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 45, "park_offical_id": "NEWPO_34" }, "geometry": { "type": "Point", "coordinates": [ -3.015714884, 51.581493246 ] } }
+]
+}
