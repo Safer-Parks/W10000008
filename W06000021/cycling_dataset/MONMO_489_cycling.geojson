@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_489_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7469725,51.835037],[-2.7467196,51.8347597],[-2.7455823,51.8339376],[-2.7436082,51.8333807]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.748458,51.8395022],[-2.7483933,51.8395858],[-2.7482803,51.8399035],[-2.7478384,51.8404749],[-2.7470005,51.8411509],[-2.746843,51.8413179],[-2.7458042,51.8431781],[-2.7454697,51.8434866]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7439053,51.8364345],[-2.7436108,51.83652],[-2.7427716,51.8366752],[-2.7426042,51.8367263],[-2.7418914,51.8370037],[-2.7410638,51.8374415],[-2.7405422,51.8377529],[-2.7401025,51.8379701],[-2.7398843,51.8380531]]]}}
+]
+}

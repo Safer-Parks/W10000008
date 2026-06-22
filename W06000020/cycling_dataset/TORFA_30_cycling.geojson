@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TORFA_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.045203,51.7114148],[-3.0451724,51.7112835]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0446169,51.7236639],[-3.0447202,51.7236447],[-3.0449656,51.7236223],[-3.045148,51.7236198],[-3.0453733,51.723648],[-3.0455704,51.7237045],[-3.045718,51.7237519],[-3.0459728,51.7238433],[-3.0461203,51.7239454],[-3.0461847,51.7240476],[-3.0462316,51.7242603]]]}}
+]
+}

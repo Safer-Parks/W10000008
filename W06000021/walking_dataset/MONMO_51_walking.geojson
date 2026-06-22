@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_51_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7900002,51.784104],[-2.7895656,51.7845487],[-2.7893564,51.7847711],[-2.7886912,51.7851261],[-2.7880046,51.7854049],[-2.7871141,51.7856505],[-2.7861646,51.785979],[-2.7855423,51.7862425]]]}}
+]
+}

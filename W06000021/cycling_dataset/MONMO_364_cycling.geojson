@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_364_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8055911,51.7978137],[-2.8054647,51.7980228],[-2.8053019,51.7982438],[-2.8051073,51.7984999],[-2.8050413,51.7986015]]]}}
+]
+}
