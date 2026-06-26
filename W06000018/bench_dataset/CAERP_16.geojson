@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CAERP_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4849551771, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2222145, 51.5627424 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4849551770, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2222615, 51.5627749 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4849551769, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2223178, 51.5627957 ] } }
+]
+}

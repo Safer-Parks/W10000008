@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWPO_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13160937797, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9506149, 51.6084428 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9244576857, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9508922, 51.6084704 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9244576858, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9507747, 51.608509 ] } }
+]
+}

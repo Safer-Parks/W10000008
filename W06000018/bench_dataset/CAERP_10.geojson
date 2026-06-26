@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAERP_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13298387304, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2302044, 51.6790992 ] } }
+]
+}
