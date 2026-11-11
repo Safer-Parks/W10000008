@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_564_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 128216576, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9755685, 51.8829754 ], [ -2.9759256, 51.8831128 ] ] } }
+]
+}

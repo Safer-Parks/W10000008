@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MERTY_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 604999009, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3062873, 51.6971193 ], [ -3.3060573, 51.6970924 ], [ -3.3054078, 51.6959176 ], [ -3.3049925, 51.6952631 ], [ -3.3045463, 51.6946908 ], [ -3.3044344, 51.6944674 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1435545461, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3082927, 51.7140676 ], [ -3.3081856, 51.7141107 ], [ -3.308014, 51.7141365 ], [ -3.3075674, 51.714173 ], [ -3.3072804, 51.7142437 ], [ -3.3069666, 51.7143085 ], [ -3.306642, 51.7143326 ], [ -3.3063671, 51.7143882 ], [ -3.3061847, 51.714414 ], [ -3.3061257, 51.7144074 ] ] } }
+]
+}

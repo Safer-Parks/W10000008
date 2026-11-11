@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAERP_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 256150003, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.135883, 51.6472927 ], [ -3.1358272, 51.6471441 ], [ -3.1356064, 51.6471498 ] ] } }
+]
+}

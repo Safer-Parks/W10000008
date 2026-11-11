@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NEWPO_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 333628845, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9715805, 51.5972758 ], [ -2.9713576, 51.5972813 ], [ -2.971224, 51.5973833 ], [ -2.9711028, 51.5974758 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 126247611, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9714489, 51.5976716 ], [ -2.9712123, 51.5975378 ], [ -2.9711028, 51.5974758 ], [ -2.9708771, 51.5973482 ], [ -2.9709421, 51.5972979 ], [ -2.9711051, 51.5971716 ], [ -2.9710684, 51.5971506 ], [ -2.9709951, 51.5971133 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 926911880, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9711028, 51.5974758 ], [ -2.970898, 51.5976266 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 333636599, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9768791, 51.6022353 ], [ -2.9772088, 51.6022816 ], [ -2.9773242, 51.6022966 ], [ -2.9774288, 51.6023149 ], [ -2.9775656, 51.6023633 ], [ -2.9780591, 51.6025298 ], [ -2.9783997, 51.6026231 ], [ -2.9785982, 51.6026681 ], [ -2.9786358, 51.602659 ], [ -2.9786775, 51.602649 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 947543048, "highway": "footway", "name": "Old Barn", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9783544, 51.6032576 ], [ -2.9783064, 51.6032241 ], [ -2.9779512, 51.6029761 ] ] } }
+]
+}
