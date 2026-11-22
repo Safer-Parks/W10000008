@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MONMO_90_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 667570944, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8764586, 51.7633313 ], [ -2.8762736, 51.7629802 ], [ -2.8761985, 51.7626283 ], [ -2.8761663, 51.7624988 ], [ -2.8760778, 51.7623461 ], [ -2.8758578, 51.7620672 ], [ -2.8753133, 51.7615293 ], [ -2.8749432, 51.7612438 ], [ -2.874345, 51.7609084 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 368769171, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.866187, 51.7465405 ], [ -2.8671486, 51.7477195 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 664628479, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8600624, 51.7498416 ], [ -2.8599123, 51.7499446 ], [ -2.8595502, 51.7501024 ], [ -2.8588341, 51.7504361 ], [ -2.8585471, 51.7505424 ], [ -2.8582493, 51.7506453 ], [ -2.8579811, 51.7506603 ], [ -2.8577639, 51.7506736 ], [ -2.8562404, 51.7509708 ], [ -2.8548054, 51.7512498 ], [ -2.8543762, 51.7513627 ], [ -2.8541724, 51.7514208 ], [ -2.8539256, 51.7514573 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 664592190, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8714883, 51.7579745 ], [ -2.8713783, 51.7579513 ], [ -2.8711396, 51.7579612 ], [ -2.8710725, 51.7579529 ], [ -2.8709492, 51.7579081 ] ] } }
+]
+}
